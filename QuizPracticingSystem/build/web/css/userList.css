@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 28, 2021, 12:29:13 PM
+    Author     : ChucNV
+*/
+
+#form{
+    background: whitesmoke;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    border: solid #00c6ff 1px;
+    margin: 10px;
+    
+}
+
+table th , table td{
+    text-align: center;
+}
+
+
+.pagination li:hover{
+    cursor: pointer;
+}
+
+.container .form-control{
+    border-radius: 5px;
+    border: solid 1px;
+}
+
+.filterForm{
+    border-radius: 10px;
+    border: solid #00c6ff 1px;
+    padding: 10px;
+    margin-top: 10px;
+}

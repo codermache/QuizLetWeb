@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<importQuestion>
+    <question>
+        <content>This is content (required)</content>
+        <explanation>This is question explanation</explanation>
+        <trueAnswer>This is true answer(required)</trueAnswer>
+        <wrongAnswer1>This is false answer(required)</wrongAnswer1>
+        <wrongAnswer2>This is false answer</wrongAnswer2>
+	<wrongAnswer3>This is false answer</wrongAnswer3>
+    </question>
+</importQuestion>  
