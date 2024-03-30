@@ -1,13 +1,4 @@
-/*
- *  Copyright(C) 2021, Group Tree - SWP391, SE1509, FA21
- *  Created on : Oct 18, 2021
- *  Change Password servlet
- *  Quiz practicing system
- *
- *  Record of change:
- *  Date        Version     Author          Description
- *  18/10/21    1.0         ChucNVHE150618  First Deploy
- */
+
 package controller;
 
 import bean.User;
